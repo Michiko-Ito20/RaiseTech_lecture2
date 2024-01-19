@@ -1,7 +1,7 @@
 # lecture3 アプリケーションの構築
 - トークンを設定した記憶が無かった
 - Windowsならではの事象が起こったりして慌てたが、エラーコードは落ち着いて読めるようになってきたのでちょっと進歩しました  
-https://www.notion.so/lecture03-375166c0b04e4ab1b791c78876410b60?pvs=4#5b4aeadad4264c22965aa0424587ecc2
+- ![画像1](RaiseTech_lecture2/lecuture03.png/lecuture03_app.png)
 
 
 ## アプリケーションサーバーについて調べる
