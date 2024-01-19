@@ -1,7 +1,7 @@
 # lecture3 アプリケーションの構築
 - トークンを設定した記憶が無かった
 - Windowsならではの事象が起こったりして慌てたが、エラーコードは落ち着いて読めるようになってきたのでちょっと進歩しました  
-- ![画像1](lecuture03image/lecuture03_app.png)
+- ![画像1](lecuture03image/lecuture3_app.png)
 
 
 ## アプリケーションサーバーについて調べる
