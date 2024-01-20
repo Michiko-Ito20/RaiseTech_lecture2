@@ -5,27 +5,27 @@
 
 ## アプリケーションサーバーについて調べる
 
-`puma -v`  
+- `puma -v`  
 Puma version: 5.6.7 (ruby 3.1.2-p20) ("Birdie's Version")  
 ![画像2](lecuture03image/lecuture3_puma-v.png)
 
 ### puma stop時にどうなるか  
-![画像3](lecuture03image/lecuture3_puma stop.png)
+![画像3](lecuture03image/lecuture3_pumaStop.png)
 
 ## DBサーバーについて調べる  
  - SHOW DATABASES;  
-![画像4](lecuture03image/lecuture3_SHOW DATABASES.png)
+![画像4](lecuture03image/lecuture3_SHOWDATABASES.png)
 
  - `mysql -V`  
 sql Ver 8.0.35  
-![画像5](lecuture03image/lecuture3_mysql -V.png)  
+![画像5](lecuture03image/lecuture3_mysql-V.png)  
 
  - `bundle -v`  
 Bundler version 2.3.14  
-![画像6](lecuture03image/lecuture3_Bundler version.png)  
+![画像6](lecuture03image/lecuture3_BundlerVersion.png)  
 
 ### mysqld stop時にどうなるか  
-![画像7](lecuture03image/lecuture3_mysql stop.png)  
+![画像7](lecuture03image/lecuture3_mysqlStop.png)  
 
 ## アプリの表示が当初うまくいかなかった  
 -  課題には無かったが、アプリを表示した時に貼り付けた画像が上手く表示され無かったので解消させてみた
