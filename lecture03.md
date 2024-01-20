@@ -18,23 +18,21 @@ Puma version: 5.6.7 (ruby 3.1.2-p20) ("Birdie's Version")
 
  - `mysql -V`  
 sql Ver 8.0.35  
-
-![画像5](lecuture03image/lecuture3_mysql -V.png)
+![画像5](lecuture03image/lecuture3_mysql -V.png)  
 
  - `bundle -v`  
-Bundler version 2.3.14
-
-![画像6](lecuture03image/lecuture3_Bundler version.png)
+Bundler version 2.3.14  
+![画像6](lecuture03image/lecuture3_Bundler version.png)  
 
 ### mysqld stop時にどうなるか  
-![画像7](lecuture03image/lecuture3_mysql stop.png)
+![画像7](lecuture03image/lecuture3_mysql stop.png)  
 
 ## アプリの表示が当初うまくいかなかった  
 -  課題には無かったが、アプリを表示した時に貼り付けた画像が上手く表示され無かったので解消させてみた
 -  ログがどこにあるか調べる　　アプリケーションの中？
 -  ログがどこにあるか仮説を立てる　アプリケーション
 -  本当にあるのか調べる　　アプリケーションのファイルバーの中から探せた  
-![画像8](lecuture03image/lecuture3_appError.png)
+![画像8](lecuture03image/lecuture3_appError.png)  
 
 ### 結果、ImageMagickが無いというエラーがログに出ていたので解消できた
 -  `sudo yum install -y ImageMagick`  
