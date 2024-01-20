@@ -10,6 +10,7 @@ Puma version: 5.6.7 (ruby 3.1.2-p20) ("Birdie's Version")
 ![画像2](lecuture03image/lecuture3_puma-v.png)
 
 ### puma stop時にどうなるか  
+- Railsの表示はできました
 ![画像3](lecuture03image/lecuture3_pumaStop.png)
 
 ## DBサーバーについて調べる  
@@ -25,6 +26,7 @@ Bundler version 2.3.14
 ![画像6](lecuture03image/lecuture3_BundlerVersion.png)  
 
 ### mysqld stop時にどうなるか  
+- Railsの画面は表示されなくなり、エラーとなりました
 ![画像7](lecuture03image/lecuture3_mysqlStop.png)  
 
 ## アプリの表示が当初うまくいかなかった  
