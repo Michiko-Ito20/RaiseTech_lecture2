@@ -35,7 +35,6 @@ Bundler version 2.3.14
 ![画像8](lecuture03image/lecuture3_appError.png)  
 
 ### 結果、ImageMagickが無いというエラーがログに出ていたので解消できた
--  `sudo yum install -y ImageMagick`  
 ![画像9](lecuture03image/lecuture3_appErrorWord.png)
-
+-  `sudo yum install -y ImageMagick`  
 ![画像1](lecuture03image/lecuture3_app.png)
