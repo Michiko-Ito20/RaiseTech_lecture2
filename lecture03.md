@@ -11,7 +11,7 @@ Puma version: 5.6.7 (ruby 3.1.2-p20) ("Birdie's Version")
 
 ### puma stop時にどうなるか  
 - Railsアプリケーションの表示ができました
-![画像3](lecuture03image/lecuture3_pumaStop.png)
+![画像3](lecuture03image/lecuture3_pumaStop2.png)
 
 ## DBサーバーについて調べる  
  - SHOW DATABASES;  
