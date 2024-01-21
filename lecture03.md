@@ -10,7 +10,7 @@ Puma version: 5.6.7 (ruby 3.1.2-p20) ("Birdie's Version")
 ![画像2](lecuture03image/lecuture3_puma-v.png)
 
 ### puma stop時にどうなるか  
-- Railsの表示はできました
+- APサーバー(puma)をストップしても動き続けました
 ![画像3](lecuture03image/lecuture3_pumaStop.png)
 
 ## DBサーバーについて調べる  
