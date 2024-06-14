@@ -5,7 +5,7 @@
 - PutEventSelectors  CloudTrailデータイベントをログ記録する 
 - StartLogging   CloudTrailロギングの開始  
 <イベント履歴画像>  
-/RaiseTech_lecture2/lecture0506image/lecture0506(1).png
+/lecture0506image/lecture0506(1).png  
 
 ## CloudWatch アラームについて
 - Unicornを起動させて、アプリが表示できるようにしないとCloudWatchアラームが  
@@ -25,7 +25,7 @@ https://calculator.aws/#/estimate?id=26b40abe26c552ebc39fd9b6f70517e988bfdceb
 もらったので、料金の支払いはここ2ヶ月発生していません。  
 - なお、無料枠は既に終了しています。  
 <現在の利用料画像>  
-/RaiseTech_lecture2/lecture0506image/lecture0506(2).png
+/RaiseTech_lecture2/lecture0506image/lecture0506(2).png  
 
 ## 質問  
 - CloudWatch アラームで、RDSが起動したら通知という条件ができるんでしょうか？
